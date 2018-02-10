@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TuringRobot</string>
+    <string name="hint">Type something here</string>
+    <string name="send">Send</string>
+    <string-array name="WelcomeTips">
+        <item> 我不只是个聊天机器人噢～</item>
+        <item> 寂寞时想找我聊聊么～</item>
+
+    </string-array>
+</resources>
